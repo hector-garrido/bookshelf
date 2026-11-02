@@ -1,0 +1,136 @@
+Términos
+- Rus
+- Zar
+
+# Contenido 
+
+Rus de Kiev
+- Novgorod la primera capital
+- Cambio a Kiev por economía y defensa
+- El Rus no era homogéneo, con eslavos, estonios, jazaros, nórdicos, etc
+- Olga: acercamientos al cristianismo
+- Crisis de sucesión posterior 
+- Lleva Vladimir I
+- Paso de venerar a Perun a buscar una religión 
+- El cristianismo ortodoxo lo convenció con sus libertades, sus iconos, geopolítica, y estructura que apoyaba a su Estado
+- Acercamiento con Bizancio, aunque de todas maneras lo invadían 
+- Repartición entre principados -> crisis de sucesión
+- Llega Iaroslav I
+- Novgorod ganó prominencia por su apoyo
+- Configuración de sistema de justicia y de sucesión
+- Lo de la sucesión no fue tan efectivo y siguió habiendo crisis que llevaron a un declive, alimentado también por invasiones de cumanos y otros
+- Tal vez el estado más grande de Europa por un tiempo
+- Economía con varios centros urbanos basados en el comercio con Bizancio
+- Fuera de ciudades había agricultura y ganadería
+- El declive vino con conflictos con los bizantinos, el avance de los turcos, y la llegada de los mongoles
+
+Este y oeste 1223-1547
+- Con los mongoles aparecerá Moscú en el mapa y los distintos subgrypps rusos
+- La horda arrasó varios principados hasta Hungría, donde se detuvo
+- Con esto, se desarmaron las rutas comerciales, movió a la población al norte, y cambió las dinámicas de poder
+- La horda dorada, brazo autónomo del imperio mongol, dominó la región otorgando cierta autonomía y apoyo a las facciones a cambio de reconocer su supremacía y rendir tributo
+- Aunque continuaron los conflictos, fue dentro de este orden impuesto y hubo una reactivación económica así como mezcla cultural
+- La llegada del Islam a la cultura mongola impregnó la región de manera permanente 
+- Vladimir y Novgorod fueron los pilares durante la edad media
+- Vladimir
+	- Tuvo cierta prominencia religiosa
+	- Tuvo gobernantes interesados en fortalecer su región, pero con guerras de sucesión 
+	- Fueron sepultados al retar a los mongoles 
+	- Aún así, continuaron siendo cierto tipo de referente
+- Novgorod
+	- Peculiar: grande pero con poca tierra cultivable, prospero por el comercio, último en cristianizarse y con política atípica
+	- Había cierta pseudo democracia con los boyardos cortando el poder del príncipe, nombrando funcionarios, y dando cierta impresión de escuchar a los ciudadanos
+	- En 1050 de construye Hagia Sofía en la ciudad acercándolos al cristianismo
+	- Cerca de Suecia y los teutones, el conflicto no tardó en llegar. De allí surgió Aleksandr Nevski
+	- Héroe militar joven, defensor de la ortodoxia ante los cruzados y sagaz negociados político con los mongoles, supo posicionarse como el ewtqbilizador
+	- Las migraciones al norte formaron rutas comerciales como la liga hanseatica que fortalecieron la economía de la región. 
+- Guerras internas en la horda dorada facilitaron el ascenso de Tver y Moscú
+- Tver fue creciendo y oponiéndose a los mongoles, que como respuesta fueron fortaleciendo a Moscú como contrapeso y asesinaeon a sus príncipes en dos ocasiones, terminando con una revuelta popular y su aplastamiento. 
+- Moscú fue creciendo bajo el favor mongol y con intrigas políticas. También tenía el río Moscú a su lado, y la sede metropolitana fue movida allí, dándole aún más poder. 
+- Iván Kalita implementó una política donde atrajo migrantes con estabilidad, amplió su base tributaria con estos, y tras drenar Econ a sus vecinos, les daría préstamos impagables que se cobraría con aneciones territoriales. 
+- Para la sucesión implementaron un infantazgo que evitó crisis de sucesión 
+- Lituania apareció en el mapa con Gedominas, líder pagano que fundó Vilma y fue tomando los debilitados principados rusos del sur hasta convertirla en el mayor estado de Europa
+- Moscú respondió aliándose con Lituania en contra de la hora dorada que iba en declive. 
+- La peste (1351) llevó al pueblo a la iglesia, que tuvo un auge con el movimiento ascético y los frescos de Andreu Rubliov. 
+- La horda dorada, debilitada, fue rechazada por Moscú, pero se vengó tomando la ciudad en 1387 con una masacre. Sin embargo, ya se había formado un prcedente con el que ya no recuperarían su dominio. 
+- La recuperación vino con Vasili I que consolidó la relación con Lituania con una boda 
+- Tras una crisis de sucesión, Vasili II llegó al trono. En dos ocasiones fue puesto a un lado con un udiel (cegado en la segunda) pero en ambas retomó el trono, y terminó disolviendo el udiel y centralizando el poder. 
+- La horda dorada se terminó de fragmentar
+- Con la caída del imperio bizantino y la consolidación católica de Lituania, Moscú fue creando una cultura mesiánica de una tercera Roma para defender su soft power e identidad como centro de la ortodoxia. 
+- Iván 3 el grande expandió 4 veces el dominio tomando los preocupados uno a uno, y se proclamó Príncipe de todo el Rus
+- Dejó de pagar tributo a los mongoles y en 1480 fue el título combate en Ugra
+- Vasili 3 consolidó el dominio con un ejército permanente
+
+De Moscú a San Petersburgo
+- Iván 4 el terrible
+	- Reformas 
+	- Castigos y persecución
+	- Conquistas
+	- Catedral de San Basilio
+	- Oprichina
+	- Potencias islámicas
+	- Movilidad campesina
+	- Cosacos
+- Fiodor 1
+- Boris Godunov, inicio de la época confusa
+	- Asenso de Rusia a patriarcado
+	- Invierno de 1600
+	- Intriga polaca con el falo Dimitri
+- Dimitri
+- Vasili 4
+	- Reveliones
+	- Más falsos Fimitri
+	- Abdicación
+- Mientras el sur ardía en rebeliones, el norte se organizó de manera civil, armó ejércitos voluntarios y logró imponer al hijo de Filaret, terminando la época oscura
+- Mijail 1 Romanov 1613-1645
+	- Paz con Suecia
+	- Apoyo a terratenientes
+	- Rusia se benefició con la guerra de 30 años vendiendo grano
+	- Expansión a Siberia
+- Aleksei
+	- Crisis social campesina fiscal por aumento de siervos
+	- Nuevo código legal
+	- Más presiones a los campesinos -> rebeliones
+	- Stenka Razin, hetmanato, la guerra ruso-polaca, más revueltas y represión campesina
+	- Cisma y viejos creyentes
+- Fiodor 3
+	- Luchas con el imperio Otomano
+	- Abolición de burocracia boyarda 
+	- Reforma fiscal 
+- Lucha sucesora
+- Sofía
+	- Represión a los intentos de reforma de los viejos creyentes
+	- Paz eterna con Polonia; frente común cristiano ante el imperio otomano
+	- Autocracia, golpe de estado de Pedro
+- Pedro 1 el grande (1682-1725)
+	- Victoria contra el imperio otomano
+	- Viajes e impulso modernizador
+	- Gran guerra del norte 
+	- Construcción de San Petesburgo 
+	- Segunda Guerra ruso otomana
+	- Al final triunfan sobre Polonia y Suecia por un lado, aunque también tienen que ceder territorios a los otomanos 
+	- Cambios: cambio de capital a SP, sust duma boyarda por un senado (hueco), inicio de Eusia como imperio
+	- Cambios en la economía a cargo del Estado
+	- Secularización, abolición del patriarcado
+	- Problemas de sucesión (hijo de Pedro muere a manos de agentes de su padre, su nieto eventualmente asciende)
+- Catalina 1
+	- Menshikov, gobernador de la capital toma las riendas detrás 
+	- Inicia con problemas de presupuesto y revierte algunas políticas
+	- Influenciada para crear un consejo privado 
+- Pedro 2 27-30 sin mucho interés, solo regresa la capital a Moscú
+- Crisis de sucesión 
+- Anna Ivanovna 30-40
+	- Le buscan poner instituciones más democráticas en detrimento de ella pero se impone
+	- Revierte algunas políticas de vuelta a lo de Pedro 1, como la capital en SP
+	- Expediciones militares
+- OTRA CRISIS SUCESORIQ
+- Isabel 1 41-62
+	- Inicia época dorada; varias edificaciones importantes como la universidad de Moscú 
+	- Popular, deja varios asuntos a gente competente 
+	- Varios aciertos diplomáticos, casi desaparece Prusia 
+- Pedro 3 1762
+	- Favorece a Prusia
+	- Apeueba 200 reformas 
+	- Es depuesto y encerrado por al familia Orlov, cercana a su esposa, princesa alemana
+
+Liberalismo
