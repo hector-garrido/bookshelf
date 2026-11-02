@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Una biblioteca personal de libros, citas y reflexiones.">
+    <title>Mis libros</title>
+
+    <!-- Reusing an existing cover prevents an unnecessary missing favicon request. -->
+    <link rel="icon" href="data/images/Eva%20Luna.jpg">
+
+    <!-- The shared stylesheet gives both pages the same old-iBooks visual language. -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- This compact toolbar echoes the title bar of the early iPhone/iPad iBooks app. -->
+    <header class="app-bar">
+        <a class="brand" href="index.html" aria-label="Volver a Mis libros">
+            <span class="brand-mark" aria-hidden="true"><span></span></span>
+            <span>Mis libros</span>
+        </a>
+        <span class="app-bar__detail">Biblioteca personal</span>
+    </header>
+
+    <main>
+        <!-- JavaScript fills this shelf from js/library.js so every available cover is linked. -->
+        <section class="library-section" aria-labelledby="library-title">
+            <div class="section-heading section-heading--shelf">
+                <div>
+                    <!-- <p class="eyebrow">La biblioteca</p> -->
+                    <h1 id="library-title">La biblioteca</h1>
+                </div>
+                <!-- <p>Abre una cubierta para leer su contenido, citas y reflexiones.</p> -->
+            </div>
+
+            <div class="bookcase" aria-label="Estante de libros">
+                <div id="book-shelf" class="book-shelf"></div>
+                <div class="shelf-edge" aria-hidden="true"></div>
+            </div>
+        </section>
+
+        <!-- The three note groups are populated with a new random sample on each page load. -->
+        <section class="notes-section" aria-labelledby="notes-title">
+            <div class="section-heading notes-heading">
+                <!-- <div> -->
+                    <!-- <p class="eyebrow">Notas al margen</p> -->
+                <h2 id="notes-title">Notas al margen</h2>
+                    <!-- <p class="section-intro">Una selección cambiante de mis apuntes. Cada visita abre el cuaderno por páginas distintas.</p> -->
+                <!-- </div> -->
+                <button id="shuffle-button" class="embossed-button" type="button">
+                    <span aria-hidden="true">↻</span>
+                    Barajar notas
+                </button>
+            </div>
+
+            <div id="notes-status" class="loading-note" role="status">Abriendo los cuadernos…</div>
+            <div id="note-sections" class="note-sections" hidden></div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <span class="footer-ornament" aria-hidden="true">❦</span>
+        <p>Una biblioteca de lecturas, citas y pensamientos.</p>
+    </footer>
+
+    <!-- ES modules keep the data/parser logic separate from this page's rendering logic. -->
+    <script type="module" src="js/home.js"></script>
+</body>
+</html>
